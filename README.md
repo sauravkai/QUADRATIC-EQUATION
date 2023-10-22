@@ -28,8 +28,8 @@ else if (disc>0)
 printf("ROOTS ARE REAL AND DISTINCT \n");
 root1=-b/(2*a) + sqrt(disc)/(2*a);
 root2=-b/(2*a) - sqrt(disc)/(2*a);
-printf("ROOT1 = %f ",root1);
-printf("ROOT2 = %f ",root2);
+printf("ROOT1 = %f \n",root1);
+printf("ROOT2 = %f \n",root2);
 }
 else if (disc<0)
 {
